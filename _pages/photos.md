@@ -5,8 +5,6 @@ permalink: /photos/
 author_profile: false
 ---
 
-## Lab Photos
-
 <div class="photo-grid">
 
   <div class="photo-card">
