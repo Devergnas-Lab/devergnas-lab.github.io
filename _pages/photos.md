@@ -6,3 +6,28 @@ author_profile: false
 ---
 
 ## Lab Photos
+
+<div class="photo-grid">
+
+  <div class="photo-card">
+    <img src="/images/GioWistful.jpg">
+    <div class="photo-overlay">
+      Giovanna in deep reflection
+    </div>
+  </div>
+
+  <div class="photo-card">
+    <img src="/images/GioKelleyNewScrubs.jpg">
+    <div class="photo-overlay">
+      Brand new scrubs
+    </div>
+  </div>
+
+  <div class="photo-card">
+    <img src="/images/AryanWithData.jpg">
+    <div class="photo-overlay">
+      Aryan making discoveries
+    </div>
+  </div>
+
+</div>
