@@ -28,4 +28,18 @@ author_profile: false
     </div>
   </div>
 
+  <div class="photo-card">
+  <img src="/images/RisArWorking.jpg">
+  <div class="photo-overlay">
+    That histology though
+  </div>
+</div>
+
+ <div class="photo-card">
+  <img src="/images/GZRNworking.jpg">
+  <div class="photo-overlay">
+    In the lab we are all family
+  </div>
+</div>
+
 </div>
