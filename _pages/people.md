@@ -28,4 +28,12 @@ B.S., Psychology, Emory University
 
 ## Students
 
-Coming soon
+Rishona Nadar, Georgia Institute of Technology
+
+Aryan Shah, Georgia Institute of Technology
+
+Samuel Lin, Emory University
+
+Yesha ..., Georgia Institute of Technology
+
+## Alumni
