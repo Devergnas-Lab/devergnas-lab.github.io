@@ -23,8 +23,8 @@ main:
   - title: "News"
     url: /news/
     
-  - title: "Join the Lab"
-    url: /join/
+  - title: "Photos"
+    url: /photos/
 
   - title: "Contact"
     url: /contact/
