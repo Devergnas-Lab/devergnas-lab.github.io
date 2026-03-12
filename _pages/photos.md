@@ -42,4 +42,11 @@ author_profile: false
   </div>
 </div>
 
+ <div class="photo-card">
+  <img src="/images/GioPoster.jpg">
+  <div class="photo-overlay">
+    Number 1 poster (in our hearts)
+  </div>
+</div>
+
 </div>
