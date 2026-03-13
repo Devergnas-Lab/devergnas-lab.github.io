@@ -43,9 +43,9 @@ author_profile: false
 </div>
 
  <div class="photo-card">
-  <img src="/images/GioPoster.jpg">
+  <img src="/images/GioPup.jpg">
   <div class="photo-overlay">
-    Number 1 poster (in our hearts)
+    Lab mascot
   </div>
 </div>
 
