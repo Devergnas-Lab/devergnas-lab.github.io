@@ -29,16 +29,16 @@ author_profile: false
   </div>
 
   <div class="photo-card">
-    <img src="/images/RisArWorking.jpg" alt="That histology though" onclick="openLightbox('/images/RisArWorking.jpg', 'That histology though')">
+    <img src="/images/RisArWorking.jpg" alt="Careful analysis" onclick="openLightbox('/images/RisArWorking.jpg', 'Careful analysis')">
     <div class="photo-overlay">
-      That histology though
+      Careful analysis
     </div>
   </div>
 
   <div class="photo-card">
-    <img src="/images/GZRNworking.jpg" alt="In the lab we are all family" onclick="openLightbox('/images/GZRNworking.jpg', 'In the lab we are all family')">
+    <img src="/images/GZRNworking.jpg" alt="In the lab" onclick="openLightbox('/images/GZRNworking.jpg', 'In the lab')">
     <div class="photo-overlay">
-      In the lab we are all family
+      In the lab 
     </div>
   </div>
 
