@@ -45,7 +45,7 @@ author_profile: false
   <div class="photo-card">
     <img src="/images/SamPresenting.jpg" alt="Sam Presenting" onclick="openLightbox('/images/SamPresenting.jpg', 'Sam Presenting')">
     <div class="photo-overlay">
-      Lab mascot
+      Sam presenting
     </div>
   </div>
 
