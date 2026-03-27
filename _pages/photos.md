@@ -43,7 +43,7 @@ author_profile: false
   </div>
 
   <div class="photo-card">
-    <img src="/images/SamPresenting.jpg" alt="Lab mascot" onclick="openLightbox('/images/SamPresenting.jpg', 'Sam Presenting')">
+    <img src="/images/SamPresenting.jpg" alt="Sam Presenting" onclick="openLightbox('/images/SamPresenting.jpg', 'Sam Presenting')">
     <div class="photo-overlay">
       Lab mascot
     </div>
