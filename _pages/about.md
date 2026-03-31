@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
-## Devergnas Lab
-
 <h2>Example Neural Dynamics</h2>
 
 <iframe src="/assets/seizure_animation.html"
@@ -20,10 +16,12 @@ redirect_from:
 </iframe>
 
 
+## Devergnas Lab
+
+
+
 ---
 
-
---- 
 
 ## Research Themes
 
