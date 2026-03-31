@@ -9,7 +9,7 @@ redirect_from:
 
 <h2>Example Neural Dynamics</h2>
 
-<iframe src="/assets/seizure_unfolding_demo.html.html"
+<iframe src="/assets/seizure_unfolding_demo.html"
         width="100%"
         height="500"
         style="border:none;">
