@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<h2>Example Neural Dynamics</h2>
 
 <iframe src="/assets/seizure_unfolding_hero.html"
         width="100%"
